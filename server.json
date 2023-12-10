@@ -1,0 +1,36 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2023-12-09T18:45:34.802Z"
+    },
+    {
+      "id": 2,
+      "description": "Hamburguer",
+      "type": "outcome",
+      "category": "Alimentacao",
+      "price": 25,
+      "createdAt": "2023-12-09T18:50:34.802Z"
+    },
+    {
+      "category": "Venda",
+      "description": "Desenvolvimento de app",
+      "price": 2000,
+      "type": "income",
+      "createdAt": "2023-12-09T22:24:56.220Z",
+      "id": 3
+    },
+    {
+      "category": "Alimentacao",
+      "description": "Acai",
+      "price": 34,
+      "type": "outcome",
+      "createdAt": "2023-12-09T22:38:17.557Z",
+      "id": 4
+    }
+  ]
+}
